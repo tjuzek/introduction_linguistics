@@ -39,16 +39,18 @@ Some of Praat's measurements are better than others (for various reasons). This 
 
 The following image illustrates some stable vs some jittery measurements. We want to avoid jitter. 
 
-![praat_overview](https://github.com/tjuzek/introduction_linguistics/blob/main/good_bad_signal.jpg?raw=true)
+![goodbad](https://github.com/tjuzek/introduction_linguistics/blob/main/good_bad_signal.jpg?raw=true)
 
 We can start taking measurements. In doing so, we need to distinguish two cases: monophtongs and diphtongs. 
 
 For monophtongs, the syllable / word we measure contains a single vowel, e.g. <beat> as //. We can take a manual measurement from the middle of the strong and stable signal, as illustrated below. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![monogood](https://github.com/tjuzek/introduction_linguistics/blob/main/mono_good_region.jpg?raw=true)
 
 Or we select the entire strong and stable signal and use the option: Formants > Get First/Second Formant. 
 
 For diphtongs, the syllable / word we measure contains two vowels, e.g. <bait> as //. For the first vowel, e.g. //, we take a measurements from the first four dots of the strong and reliable signal. For the second vowel, we take a measurement from the last four dots. Alternatively, we make a selection of a few dots and use the Formant menu again. 
+  
+![digood](https://github.com/tjuzek/introduction_linguistics/blob/main/di_good_region.jpg?raw=true)
 
 Collect the measurements for the different words and submit your findings. 

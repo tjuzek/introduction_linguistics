@@ -51,6 +51,6 @@ Or we select the entire strong and stable signal and use the option: Formants > 
 
 For diphtongs, the syllable / word we measure contains two vowels, e.g. <bait> as //. For the first vowel, e.g. //, we take a measurements from the first four dots of the strong and reliable signal. For the second vowel, we take a measurement from the last four dots. Alternatively, we make a selection of a few dots and use the Formant menu again. 
   
-![digood](https://github.com/tjuzek/introduction_linguistics/blob/main/di_good_region.jpg?raw=true)
+![digood](https://github.com/tjuzek/introduction_linguistics/blob/main/diph_good_region.jpg?raw=true)
 
 Collect the measurements for the different words and submit your findings. 

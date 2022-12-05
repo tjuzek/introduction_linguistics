@@ -6,7 +6,7 @@ A new window opens. In your first session, go through the menus. Go to Pitch > u
 
 Now you should see something like this: 
 
-![praat_overview](https://github.com/tjuzek/introduction_linguistics/blob/main/praat_overview.jpg?raw=true)
+![praatoverview](https://github.com/tjuzek/introduction_linguistics/blob/main/praat_overview.jpg?raw=true)
 
 The top half of the screen is the wave form. Each black 'blob' represents a word. The bottom half is the spectrogram and will become visible once we zoom in. 
 
@@ -15,7 +15,7 @@ If you have problems with your sound, look here under Section 4: https://www.fon
 
 To zoom into your selection, press the "sel" button at the bottom left corner. You should now see something like this: 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![closeup](https://github.com/tjuzek/introduction_linguistics/blob/main/close_up.jpg?raw=true)
 
 The first step of taking your measurements is always the same: 
 
@@ -33,13 +33,13 @@ The lowest resonant frequency is called F1 / first formant, the second lowest F2
 
 Praat takes measurements at intervals. In each batch of measurements, F1 is represented by the lowest red dot, and F2 by the lowest white dot. The following picture illustrates this. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![measurements](https://github.com/tjuzek/introduction_linguistics/blob/main/measurements.jpg?raw=true)
 
 Some of Praat's measurements are better than others (for various reasons). This brings us back to to 'stable' measurements. 'Stable' means that changes in frequency between one measurement and the next are limited. For F1, a delta beyond 100Hz for F1 is already large. For F2, the delta should not exceed 200Hz, max. 250Hz. 
 
 The following image illustrates some stable vs some jittery measurements. We want to avoid jitter. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![praat_overview](https://github.com/tjuzek/introduction_linguistics/blob/main/measurements.jpg?raw=true)
 
 We can start taking measurements. In doing so, we need to distinguish two cases: monophtongs and diphtongs. 
 

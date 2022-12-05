@@ -43,13 +43,13 @@ The following image illustrates some stable vs some jittery measurements. We wan
 
 We can start taking measurements. In doing so, we need to distinguish two cases: monophtongs and diphtongs. 
 
-For monophtongs, the syllable / word we measure contains a single vowel, e.g. \<beat\> as /bi:t/. We can take a manual measurement from the middle of the strong and stable signal, as illustrated below. 
+For monophtongs, the syllable / word we measure contains a single vowel, e.g. \<beat\> as /bi:t/. We can take a manual measurement from the middle of the strong and stable signal. We take a measurement by left-clicking on a good F1 and/or F2 dot, this will give us a Hz value (in red) on the left hand site; "good" dots to measure from are illustrated below. 
 
 ![monogood](https://github.com/tjuzek/introduction_linguistics/blob/main/mono_good_region.jpg?raw=true)
 
 Or we select the entire strong and stable signal and use the option: Formants > Get First/Second Formant. 
 
-For diphtongs, the syllable / word we measure contains two vowels, e.g. \<bait\> as /bejt/. For the first vowel, e.g. /e/, we take a measurements from the first four dots of the strong and reliable signal. For the second vowel \j\, we take a measurement from the last four dots. Alternatively, we make a selection of a few dots and use the Formant menu again. 
+For diphtongs, the syllable / word we measure contains two vowels, e.g. \<bait\> as /bejt/. For the first vowel, e.g. /e/, we take a measurements from the first four dots of the strong and reliable signal. For the second vowel /j/, we take a measurement from the last four dots. Alternatively, we make a selection of a few dots and use the Formant menu again. 
   
 ![digood](https://github.com/tjuzek/introduction_linguistics/blob/main/diph_good_region.jpg?raw=true)
 

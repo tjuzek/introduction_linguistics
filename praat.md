@@ -39,7 +39,7 @@ Some of Praat's measurements are better than others (for various reasons). This 
 
 The following image illustrates some stable vs some jittery measurements. We want to avoid jitter. 
 
-![praat_overview](https://github.com/tjuzek/introduction_linguistics/blob/main/measurements.jpg?raw=true)
+![praat_overview](https://github.com/tjuzek/introduction_linguistics/blob/main/good_bad_signal.jpg?raw=true)
 
 We can start taking measurements. In doing so, we need to distinguish two cases: monophtongs and diphtongs. 
 

@@ -47,6 +47,7 @@ Still, this is very impressive and not much worse than the human baseline of fir
 
 ### Notes
 
+- This is not meant to be alarmist. Calculators are a good thing. 
 - I cannot publish Labov's paper for copyright reasons. Do message me for the text I have used. 
 - ChatGPT chose the name to the repo and its description! 
 - Thank you so much to Sasja for their help. I really appreciate their expertise and willingness to assist me. Their guidance was invaluable and made all the difference. 

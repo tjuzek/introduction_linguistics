@@ -2,11 +2,11 @@
 
 **Too long, didn't read: Give a scientific article to the state-of-the-art AI models, ask them questions about the paper, and the performance is good enough to keep up with student submissions.**
 
-One of the assignments in my current intro to linguistics classes is to choose a article from a list of suggested papers from different subfields (phonetics, syntax, semantics, etc.), to critically read it, and to answer a few questions on it. The by far most popular choice is a paper by Labov titled [The social stratification of (r) in New York City department stores](http://archive.cunyhumanitiesalliance.org/ell101fall18/wp-content/uploads/sites/34/2018/10/The-Social-Stratification-of-r-in-NYC-Departments-Stores-Labov.pdf). Our students love sociolinguistics. This is an intro class and if there is basic understanding, the student will pass. 
+One of the assignments in my current intro to linguistics classes is to choose a article from a list of suggested papers from different subfields (phonetics, syntax, semantics, etc.), to critically read it, and to answer a few questions on it. The by far most popular choice is a paper by Labov titled [The social stratification of (r) in New York City department stores](http://archive.cunyhumanitiesalliance.org/ell101fall18/wp-content/uploads/sites/34/2018/10/The-Social-Stratification-of-r-in-NYC-Departments-Stores-Labov.pdf). This is an intro class and I check for basic understanding. 
 
 ## The assignment
 
-Here is the assignment (slight editing, mostly formatting). 
+Here is the assignment (slightly edited, mostly formatting). 
 
 ```
 For the following tasks, [...] have a look at Mitzenmacher's tips for reading a scientific paper: https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
@@ -41,7 +41,7 @@ Bonus Strengths and Weaknesses: *One strength of the paper is its use of a syste
 
 ## Thoughts
 
-It feels a bit repetitive, but for this particular paper, there is overlap between the different questions, but that is also the case with the human baselines (for other papers, there is less overlap). ChatGPT's answers are really good actually, and such a submission would have received a pass, I think. I have predefined targets, and I can briefly discuss deviations. For one, the answer to Question 1 is too specific in my view. Here, some more abstraction about the link between social factors, i.e. socio-economic status, and the manner of speaking would be good. The same applies to Question 5: But how *exactly* is this done? Further, the answer to the bonus question feels generic, there is a factual error (Labov looked at three kinds of department stores), and one of the main issues is not addressed: The person hypothesising, doing the interviews, and evaluating the responses is the same, and there is no mechanism to exclude bias. 
+The formulations are a bit stiff ("The paper x's", "in New York City"), and the answers feel a bit repetitive, but for this particular paper, there is overlap between the different questions, and the human baselines also exhibit some overlap (for other papers, there is less overlap). ChatGPT's answers are decent, and such a submission would have received a pass, I think. I have predefined targets, and I can briefly discuss deviations. For one, the answer to Question 1 is too specific in my view. Here, some more abstraction about the link between social factors, i.e. socio-economic status, and the manner of speaking would be good. The same applies to Question 5: How *exactly* is this done? Further, the answer to the bonus question feels generic, there is a factual error (Labov looked at three kinds of department stores), and one of the main issues is not addressed: The person hypothesising, doing the interviews, and evaluating the responses is the same, and there is no mechanism to exclude bias. 
 
 Still, this is very impressive and not much worse than the human baseline of first year undergrad students. The linguistic classroom might have reached its calculator moment. 
 

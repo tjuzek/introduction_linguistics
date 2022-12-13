@@ -1,6 +1,6 @@
 # ChatGPT has just passed one of my intro-to-linguistics assignments
 
-*Too long, didn't read: Give a scientific article to the state-of-the-art AI models, ask them questions about the paper, and the performance is good enough to keep up with student submissions.*
+**Too long, didn't read: Give a scientific article to the state-of-the-art AI models, ask them questions about the paper, and the performance is good enough to keep up with student submissions.**
 
 One of the assignments in my current intro to linguistics classes is to choose a article from a list of suggested papers from different subfields (phonetics, syntax, semantics, etc.), to critically read it, and to answer a few questions on it. The by far most popular choice is a paper by Labov titled [The social stratification of (r) in New York City department stores](http://archive.cunyhumanitiesalliance.org/ell101fall18/wp-content/uploads/sites/34/2018/10/The-Social-Stratification-of-r-in-NYC-Departments-Stores-Labov.pdf). Our students love sociolinguistics. This is an intro class and if there is basic understanding, the student will pass. 
 
